@@ -1,7 +1,7 @@
 ## Happy
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="/happy.png" width="100%">
 </p>
 
 Happy é um projeto com propósito de facilitar o visitamento de Casas de Acolhimento e cadastro das mesmas. Desenvolvido pela Rocketseat.
