@@ -4,7 +4,7 @@
   <img alt="Happy" src="/happysafari.png" width="100%">
 </p>
 
-Happy é um projeto com propósito de facilitar o visitamento de Casas de Acolhimento e cadastro das mesmas. Desenvolvido pela Rocketseat.
+Happy é um projeto com o propósito de facilitar o visitamento de Casas de Acolhimento e cadastro das mesmas. Desenvolvido pela Rocketseat.
 
 ## Tecnologias e como abrir
 
